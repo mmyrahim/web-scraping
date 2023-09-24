@@ -7,5 +7,5 @@ part 2:
 in the second part, i scraped mars weather data, organized it into a pandas dataframe, and conducted analyses, including determining the number of months on mars, identifying the coldest and warmest months, estimating martian and earth days, and visualizing temperature and pressure data.
 
 resources:
-askbcs, thye helped me in getting my chrome to run and also withh eror in chrome code
-https://splinter.readthedocs.io/en/latest/index.html learn about automated web browsing with splinter.
+askbcs, they helped me in getting my chrome to run and also with eror in chrome code.
+https://splinter.readthedocs.io/en/latest/index.html learnt about automated web browsing with splinter.
